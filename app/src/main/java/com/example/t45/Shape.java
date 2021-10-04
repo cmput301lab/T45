@@ -6,4 +6,5 @@ public abstract class Shape {
     String color = "RED";
     String color_2 = "WHITE";
     String color_shiguo = "BLACK";
+    String color_3 = "Yellow";
 }
