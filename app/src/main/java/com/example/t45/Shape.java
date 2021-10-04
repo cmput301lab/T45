@@ -4,8 +4,7 @@ public abstract class Shape {
     private int x;
     private int y;
     String color = "RED";
-
     String color_2 = "WHITE";
-    String color_3 = "blue";
-
+    String color_shiguo = "BLACK";
+    String color_3 = "Yellow";
 }
