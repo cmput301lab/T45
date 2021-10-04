@@ -7,5 +7,7 @@ public abstract class Shape {
 
     String color_2 = "WHITE";
     String color_3 = "blue";
+    
+    String coloe_4 = "BLACK"
 
 }
